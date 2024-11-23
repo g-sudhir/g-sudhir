@@ -29,9 +29,9 @@ I'm **Sudhir**, a passionate Computer Science student specializing in full-stack
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### 🌟 Projects:
-- 🔥 [Tic-Tac-Toe MERN Game](#)  
+- 💰 [Expense Tracker](https://expense-tracker-app-sudhir.vercel.app/)  
+- 🔥 [Tic-Tac-Toe MERN Game](https://sudhir-tic-tac-toe.netlify.app)  
 - 🍔 [Food Ordering Website](#)  
-- 💰 [Expense Tracker](#)  
 
 ### 🌐 Connect with me:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)                          ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)
