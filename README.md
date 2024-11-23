@@ -30,7 +30,7 @@ I'm **Sudhir**, a passionate Computer Science student specializing in full-stack
 
 ### 🌟 Projects:
 - 💰 [Expense Tracker](https://expense-tracker-app-sudhir.vercel.app/)  
-- 🔥 [Tic-Tac-Toe MERN Game](https://sudhir-tic-tac-toe.netlify.app)  
+- 🔥 [Tic-Tac-Toe JS Game](https://sudhir-tic-tac-toe.netlify.app)  
 - 🍔 [Food Ordering Website](#)  
 
 ### 🌐 Connect with me:
